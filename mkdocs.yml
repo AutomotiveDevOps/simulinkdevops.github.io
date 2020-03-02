@@ -1,0 +1,6 @@
+site_name: Simulink Devops
+nav:
+    - Simulink: index.md
+    - Why DevOps: devops.md
+    - About: about.md
+theme: readthedocs
